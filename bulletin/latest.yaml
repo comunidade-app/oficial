@@ -3,7 +3,7 @@
   title: "Boas-vindas ao App Comunidade"
   body: "Crie seu perfil, entre em comunidades e acompanhe eventos em tempo real."
   source: "Equipe Comunidade"
-  createdAt: "2026-02-21T19:04:35.762Z"
+  createdAt: "2026-02-21T19:21:51.693Z"
   tags:
     - "geral"
     - "onboarding"
@@ -12,7 +12,7 @@
   title: "Check-in offline disponivel"
   body: "Sem internet? Continue fazendo check-ins. Eles serao sincronizados quando a conexao voltar."
   source: "Produto"
-  createdAt: "2026-02-21T19:04:35.762Z"
+  createdAt: "2026-02-21T19:21:51.693Z"
   tags:
     - "checkin"
     - "offline"
