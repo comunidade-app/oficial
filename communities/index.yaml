@@ -1,10 +1,18 @@
-updatedAt: "2026-02-21T19:09:17.349Z"
+updatedAt: "2026-02-21T19:23:28.496Z"
 communities:
   -
     id: "da22462c-fe7a-4a79-9c11-d1a34bc7d40d"
     name: "Comunidade Principal"
     description: "Espaco inicial para conectar pessoas e ideias."
+    repository: "comunidade-app/oficial"
+    ownerLogin: "comunidade-app"
+    createdAt: "2026-02-21T19:04:35.769Z"
+    path: "communities/comunidade-app-oficial/public.yaml"
+  -
+    id: "4883d9f1-2e76-4406-8206-fbb63a31d854"
+    name: "Comunidade Principal"
+    description: "Espaco inicial para conectar pessoas e ideias."
     repository: ""
     ownerLogin: ""
-    createdAt: "2026-02-21T19:04:35.769Z"
+    createdAt: "2026-02-21T19:21:51.704Z"
     path: "communities/comunidade-principal/public.yaml"
