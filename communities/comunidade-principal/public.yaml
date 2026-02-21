@@ -1,14 +1,14 @@
-id: "da22462c-fe7a-4a79-9c11-d1a34bc7d40d"
+id: "4883d9f1-2e76-4406-8206-fbb63a31d854"
 name: "Comunidade Principal"
 description: "Espaco inicial para conectar pessoas e ideias."
 repository: ""
 ownerLogin: ""
-createdAt: "2026-02-21T19:04:35.769Z"
+createdAt: "2026-02-21T19:21:51.704Z"
 events:
   -
-    id: "a4e07bd2-0203-47aa-a0ac-e416492a8959"
+    id: "d7586bf4-e7cc-41bd-8edd-5d89d0c21019"
     title: "Encontro de boas-vindas"
-    date: "2026-02-21T19:04:35.769Z"
+    date: "2026-02-21T19:21:51.704Z"
     location: "Online"
     description: "Apresentacao do projeto e proximos passos."
 contents:
