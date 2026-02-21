@@ -1,0 +1,18 @@
+-
+  id: "bulletin-1"
+  title: "Boas-vindas ao App Comunidade"
+  body: "Crie seu perfil, entre em comunidades e acompanhe eventos em tempo real."
+  source: "Equipe Comunidade"
+  createdAt: "2026-02-21T19:04:35.762Z"
+  tags:
+    - "geral"
+    - "onboarding"
+-
+  id: "bulletin-2"
+  title: "Check-in offline disponivel"
+  body: "Sem internet? Continue fazendo check-ins. Eles serao sincronizados quando a conexao voltar."
+  source: "Produto"
+  createdAt: "2026-02-21T19:04:35.762Z"
+  tags:
+    - "checkin"
+    - "offline"
